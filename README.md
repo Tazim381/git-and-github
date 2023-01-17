@@ -1,7 +1,7 @@
 # git-and-github
 
 A quick brown fox jumps over the lazy dog
-
+for conflict into github
 
 
 
